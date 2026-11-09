@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Solar Interior 3D & Realidade Aumentada",
+  "description": "Explorador 3D interativo e Realidade Aumentada (AR) do Sistema Solar interno: Sol, Mercúrio, Vênus, Terra e Lua com modelos compostos procedurais, camadas internas, órbitas e telemetria astronômica.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
